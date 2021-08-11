@@ -6,4 +6,4 @@ metadata:
   namespace: argo-deploy
 spec:
   type: GitHub
-  pathname: https://github.com/avaleror/argo-acm.git
+  pathname: https://github.com/supernoodz/argo-acm.git
