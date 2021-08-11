@@ -10,7 +10,7 @@ spec:
   project: default
   source:
     path: app-lifecycle/pacman
-    repoURL: https://github.com/supernoodz/ocp-coffee-break.git
+    repoURL: https://github.com/avaleror/ocp-coffee-break.git
     targetRevision: master
   syncPolicy:
     automated:
