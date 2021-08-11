@@ -6,11 +6,11 @@ metadata:
 spec:
   destination:
     namespace: pacman
-    server: https://api.aws-managed1.5d8a.sandbox1045.opentlc.com:6443
+    server: https://api.cluster-812c.sandbox1842.opentlc.com:6443
   project: default
   source:
     path: app-lifecycle/pacman
-    repoURL: https://github.com/avaleror/ocp-coffee-break.git
+    repoURL: https://github.com/supernoodz/ocp-coffee-break.git
     targetRevision: master
   syncPolicy:
     automated:
